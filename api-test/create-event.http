@@ -1,0 +1,10 @@
+POST http://localhost:8080/events
+Content-Type: application/json
+
+{
+    "name": "anu",
+    "description": "test data",
+    "location": "trvm",
+    "datetime": "2025-01-01T15:30:00Z"
+}
+
